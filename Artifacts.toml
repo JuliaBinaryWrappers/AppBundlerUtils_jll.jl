@@ -1,16 +1,16 @@
 [[AppBundlerUtils]]
 arch = "aarch64"
-git-tree-sha1 = "5339fef62370bef370cf9cd7e49c3e9b4ee1d0d2"
+git-tree-sha1 = "46867ad8eaff2ec4be0d684c1cc3ee1bc5b6ae63"
 os = "macos"
 
     [[AppBundlerUtils.download]]
-    sha256 = "fe92e2cd6bbcf046dde82236910727d1a5282e698ad43d248028578c2f141c18"
-    url = "https://github.com/JuliaBinaryWrappers/AppBundlerUtils_jll.jl/releases/download/AppBundlerUtils-v0.1.5+0/AppBundlerUtils.v0.1.5.aarch64-apple-darwin.tar.gz"
+    sha256 = "0fd0361c86ab068f260388556210bb731fe38952ef5e707c4ad1f8681bcbfe21"
+    url = "https://github.com/JuliaBinaryWrappers/AppBundlerUtils_jll.jl/releases/download/AppBundlerUtils-v0.4.0+0/AppBundlerUtils.v0.4.0.aarch64-apple-darwin.tar.gz"
 [[AppBundlerUtils]]
 arch = "x86_64"
-git-tree-sha1 = "6e2fa5c0b8a5d0da78cd2e138ba65132a7a2830f"
+git-tree-sha1 = "f09dfdc91146e2b782e7b6667b3be112e0b7baa5"
 os = "macos"
 
     [[AppBundlerUtils.download]]
-    sha256 = "058f2c11ac4033ad2560e94458f3e679ebb1bce86217728f7fefec438d41aad9"
-    url = "https://github.com/JuliaBinaryWrappers/AppBundlerUtils_jll.jl/releases/download/AppBundlerUtils-v0.1.5+0/AppBundlerUtils.v0.1.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "2eed9a3727f134b259f1686a0fe718663eebb40f99cd9791e043fcaee740d133"
+    url = "https://github.com/JuliaBinaryWrappers/AppBundlerUtils_jll.jl/releases/download/AppBundlerUtils-v0.4.0+0/AppBundlerUtils.v0.4.0.x86_64-apple-darwin.tar.gz"
